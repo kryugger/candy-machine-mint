@@ -1,3 +1,4 @@
+I have several ideas that I intend to implement this is connected with the new type of registry when interacting with the world map
 # Candy-Machine-Mint
 
 The Candy-Machine-Mint project is designed to let users fork, customize, and deploy their own candy machine mint app to a custom domain, ultra fast.
